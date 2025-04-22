@@ -52,10 +52,10 @@ The analysis revealed several interesting patterns:
 ## Setup and Installation
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/fossil-analysis.git
+git clone https://github.com/ozkanali357/Detecting-Patterns-of-Speciation-in-the-Fossil-Record.git
 
 # Install dependencies
-pip install pandas numpy matplotlib geopandas scipy statsmodels
+pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook fossil_analysis.ipynb
